@@ -40,8 +40,7 @@ public class Solution {
                 if(j>1){
                     removeItemFromMapByValue(map, pair.getValue());
                 }    
-            }
-            
+            } 
     }
 
     public static void removeItemFromMapByValue(Map<String, String> map, String value) {
