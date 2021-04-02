@@ -1,3 +1,2 @@
 # JAVARUSH
-JAVARUSH
-These are my javarush solutions.
+I’m currently working on JAVARUSH Course
